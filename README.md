@@ -44,7 +44,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ## :memo: Licença
 
-Esse projetogabr18 está sob a licença MIT.
+Esse projeto está sob a licença MIT.
 
 ---
 
