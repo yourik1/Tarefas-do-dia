@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para te ajudar com seus hábitos.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Visite o projeto online](https://yourik1.github.io/Tarefas-do-dia/)
 
 ## 🔖 Layout
 
