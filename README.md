@@ -9,7 +9,6 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -37,8 +36,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Habits é um app para te ajudar com seus hábitos.
 
 - [Visite o projeto online](https://yourik1.github.io/Tarefas-do-dia/)
-
-## 🔖 Layout
 
 ## :memo: Licença
 
